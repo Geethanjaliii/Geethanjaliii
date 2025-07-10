@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **DSA** using Java 
 - 🏭 Intern at **Tamizhan Skills** – exploring **IoT projects using Java**  
 - 🤖 Building a Garbage Classification project using Python in **AICTE**
+- - ⚡ Fun fact: i am a last minute person to finish my task
 
 ---
 
