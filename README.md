@@ -60,8 +60,7 @@ class Geethanjali:
             "Backend Development"
         ]
 def goal(self):
-        return "Become a Cloud Engineer and build scalable systems"
-```
+        return "Become a Cloud Engineer and build scalable systems"  ```
 ---
 
 # ⚡ Tech Stack
