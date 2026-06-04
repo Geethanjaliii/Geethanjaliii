@@ -204,17 +204,13 @@
 
 <div align="center">
 
-📧 **Email**  
-geethanjalivn06@gmail.com
+📧 **Email**     geethanjalivn06@gmail.com
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/geethanjali-v-n-852657306/
+💼 **LinkedIn**  https://www.linkedin.com/in/geethanjali-v-n-852657306/
 
-🧩 **LeetCode**  
-https://leetcode.com/u/geetz_23/
+🧩 **LeetCode**  https://leetcode.com/u/geetz_23/
 
-🐙 **GitHub**  
-https://github.com/Geethanjaliii
+🐙 **GitHub**    https://github.com/Geethanjaliii
 
 </div>
 
