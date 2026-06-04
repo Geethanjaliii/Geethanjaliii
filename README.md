@@ -202,23 +202,29 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
+<h1 align="center">🌐 Connect With Me</h1>
 
-📧 **Email**     geethanjalivn06@gmail.com
+<p align="center">
+  <a href="mailto:geethanjalivn06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-💼 **LinkedIn**  https://www.linkedin.com/in/geethanjali-v-n-852657306/
+  <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-🧩 **LeetCode**  https://leetcode.com/u/geetz_23/
+  <a href="https://leetcode.com/u/geetz_23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
-🐙 **GitHub**    https://github.com/Geethanjaliii
-
-</div>
+  <a href="https://github.com/Geethanjaliii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-
-## 💜 Current Mindset
 
 ```text
 Learn → Build → Improve → Repeat
