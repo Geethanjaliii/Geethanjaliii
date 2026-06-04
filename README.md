@@ -179,9 +179,8 @@
 ---
 
 # 📈 Top Languages
-
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geethanjaliii&theme=tokyonight" />
 </div>
 
 # 📉 Activity Graph
