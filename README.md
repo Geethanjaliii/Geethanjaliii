@@ -126,7 +126,7 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 - Build cloud-native applications
 - Strengthen backend engineering skills
 - Contribute to open source
-- Prepare for FAANG internship
+-  secure top software & cloud internships
 
 ---
 
