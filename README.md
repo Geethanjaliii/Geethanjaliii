@@ -189,7 +189,7 @@
 
 ---
 
-### I believe Consistency compounds!Small improvements every day create extraordinary results over time.
+### I believe Consistency compounds. Small improvements every day create extraordinary results over time.
 
 ⭐ Thanks for visiting my profile!
 
