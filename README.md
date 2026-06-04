@@ -21,30 +21,17 @@
 </div>
 
 ---
-# 🌙 About Me
+### 🌙 About Me
 
-- 🎓 B.E. Computer Science & Engineering Student
-- 🏫 Velammal Engineering College
-- 📍 Chennai, Tamil Nadu, India
-- 📊 CGPA: 7.99
+🎓 B.E. Computer Science & Engineering Student at Velammal Engineering College (2027)
 
-### Interests
+📍 Chennai, India | 📊 CGPA: 7.99
 
-- ☁️ Cloud Computing
-- ⚙️ Backend Engineering
-- 🤖 Artificial Intelligence
-- 🏗️ System Design
+☁️ Interested in Cloud Computing, Backend Engineering, Artificial Intelligence, and System Design
 
-### Currently Learning
+🚀 Building projects while strengthening Java DSA, Python, and Cloud Technologies
 
-- 📚 Java DSA
-- 🐍 Python
-- ☁️ Cloud Technologies
-- ⚙️ Backend Development
-
-### Goal
-
-🎯 Become a Cloud Engineer and build scalable systems.
+🎯 Aspiring Cloud Engineer focused on developing scalable and reliable systems
 
 # ⚡ Tech Stack
 ### 👩‍💻 Languages
