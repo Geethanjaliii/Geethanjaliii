@@ -32,7 +32,7 @@
 
 # 🌙 About Me
 
-```python
+#python
 class Geethanjali:
 
     def __init__(self):
