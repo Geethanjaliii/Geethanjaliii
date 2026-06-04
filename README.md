@@ -1,335 +1,140 @@
-<div align="center">
-
-<img src="assets/banner.png" alt="https://i.pinimg.com/736x/3f/a5/0f/3fa50fe4b1ff4bc6fdf0f4be1721977d.jpg" width="100%" alt="welcome Banner">
-
-<br/>
-
 # ✨ Welcome to Geethanjali's GitHub ✨
 
-### `Cloud Engineering  •  Backend Development  •  DSA Journey`
+### Cloud Engineering • Backend Development • DSA Journey
 
-</div>
-
-<br/>
+"Consistency compounds. Small improvements every day create extraordinary results over time."
 
 ---
 
-<br/>
+## 📞 Connect With Me
 
-<div align="center">
-
-## 🔗 Connect With Me
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-geethanjalivn06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geethanjalivn06@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geethanjali%20V%20N-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjali-v-n-852657306/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-jqrboQoIQE-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jqrboQoIQE/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Geethanjali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geethanjali)
-
-</div>
-
-<br/>
+<p align="left">
+<a href="mailto:geethanjalivn06@gmail.com"><imgsrc="https://img.shields.io/badge/Email-geethanjalivn06%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/geethanjali-vn"><img src="https://img.shields.io/badge/LinkedIn-geethanjali--v--n-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/jqrboQoIQE"><img src="https://img.shields.io/badge/LeetCode-jqrboQoIQE-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/Geethanjali"><img src="https://img.shields.io/badge/GitHub-Geethanjali-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-<br/>
+## 🎓 About Me
 
-<div align="center">
-
-## 🧑‍💻 About Me
-
-<br/>
-
-```yaml
-Name        : Geethanjali V N
-Location    : Chennai, Tamil Nadu, India
-College     : Velammal Engineering College
-Degree      : B.E. Computer Science & Engineering
-Graduation  : 2027
-CGPA        : 7.99
-
-Interests:
-  - Cloud Computing
-  - Backend Engineering
-  - Artificial Intelligence
-  - System Design
-
-Currently Learning:
-  - Java DSA
-  - Python
-  - Cloud Technologies
-  - Backend Development
-
-Goal: Become a Cloud Engineer and build scalable systems
-```
-
-</div>
-
-<br/>
+* 🎓 B.E. [cite_start]Computer Science & Engineering Student at Velammal Engineering College[cite: 23].
+* [cite_start]📍 Chennai, Tamil Nadu, India[cite: 29].
+* [cite_start]📊 CGPA: 7.99/10[cite: 25].
+* 💡 Interested in Cloud Computing, Backend Engineering and Artificial Intelligence.
+* 🚀 Building projects while learning DSA and System Design.
+* 🎯 Goal: Secure top Software/Cloud internships.
 
 ---
-
-<br/>
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
-<br/>
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-**Languages**
+### Backend Frameworks & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API_Design-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+</p>
 
-<br/>
+### Databases & Caching
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Cloud & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/IAM-569A31?style=for-the-badge&logo=aws-identity-and-access-management&logoColor=white" alt="IAM" />
+</p>
 
-<br/>
+### Web
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-**Backend**
-
-<br/>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br/>
-
-**Database**
-
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-**Cloud**
-
-<br/>
-
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)&nbsp;
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)&nbsp;
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)&nbsp;
-![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/>
-
-**Tools**
-
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br/>
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
-
-<br/>
 
 ## 🚀 Featured Projects
 
-<br/>
+[cite_start]### [cite: 11] URL Shortener
+* [cite_start]**Tech Stack:** FastAPI • Redis • MySQL/PostgreSQL • Docker [cite: 11]
+* [cite_start]Designed RESTful APIs for URL creation and redirection with custom alias support using FastAPI[cite: 13].
+* [cite_start]Implemented Redis cache-aside pattern with TTL-based eviction for fast lookups[cite: 13].
+* [cite_start]Designed normalized relational schema with indexed short-code column for optimized performance[cite: 14].
+* [cite_start]Containerized application using Docker for consistent and portable deployment[cite: 14].
+* [cite_start]Implemented centralized exception handling for robust API behavior[cite: 14].
 
-<div align="center">
-
-### 🔗 URL Shortener
-
-`FastAPI` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `MySQL / PostgreSQL` &nbsp;·&nbsp; `Docker`
-
-</div>
-
-<br/>
-
-- Designed REST APIs for URL creation and redirection
-- Implemented Redis cache-aside pattern with TTL
-- Dockerized application for consistent deployment
-- Optimized database schema with indexed short-code column
-
-<br/>
-
-<div align="center">
-
-### ☁️ Serverless Event Management System
-
-`AWS Lambda` &nbsp;·&nbsp; `API Gateway` &nbsp;·&nbsp; `DynamoDB` &nbsp;·&nbsp; `S3`
-
-</div>
-
-<br/>
-
-- Built scalable serverless architecture for event creation and registration
-- Implemented CRUD operations using DynamoDB
-- Configured IAM roles for secure inter-service communication
-- Deployed frontend on S3 with integrated serverless backend
-
-<br/>
-
-<div align="center">
-
-### 🅿️ Smart Parking System
-
-</div>
-
-<br/>
-
-- Integrated IoT sensors for real-time occupancy tracking
-- Built sensor monitoring pipeline for slot availability
-- Delivered real-time updates across the parking interface
-
-<br/>
+[cite_start]### [cite: 15] Serverless Event Management System
+* [cite_start]**Tech Stack:** AWS Lambda • API Gateway • DynamoDB • S3 [cite: 15]
+* [cite_start]Built a scalable serverless system for event creation, registration, and data storage[cite: 16].
+* [cite_start]Designed event-driven backend architecture using AWS Lambda integrated with API Gateway[cite: 17].
+* [cite_start]Implemented CRUD operations using DynamoDB with optimized partition key design[cite: 18].
+* [cite_start]Configured IAM roles and access policies to ensure secure communication between AWS services[cite: 19].
+* [cite_start]Deployed static frontend on AWS S3 for cost-effective hosting[cite: 20].
 
 ---
-
-<br/>
 
 ## 🏆 Achievements
 
-<br/>
-
-<div align="center">
-
-🥇 &nbsp; **First Prize** — Blockathon'24, Velammal Engineering College
-
-🚀 &nbsp; **Shortlisted** — Google GDG On Campus Solution Challenge (Top 105 Teams)
-
-📜 &nbsp; **Certified** — Infosys Artificial Intelligence Primer
-
-</div>
-
-<br/>
+* [cite_start]🏆 Won First Prize - Blockathon '24, Velammal Engineering College[cite: 35].
+* [cite_start]🚀 Shortlisted among Top 105 teams - Google GDG On Campus Solution Challenge[cite: 36].
+* [cite_start]📜 Artificial Intelligence Primer Certification - Infosys[cite: 37].
 
 ---
-
-<br/>
 
 ## 🎯 Current Goals
 
-<br/>
-
-<div align="center">
-
-🖥️ &nbsp; Master Java DSA
-
-☁️ &nbsp; Build Cloud Native Applications
-
-🌐 &nbsp; Contribute to Open Source
-
-🎓 &nbsp; Prepare for Google Internships
-
-</div>
-
-<br/>
+* 💻 Master DSA in Java
+* ☁️ Build Cloud-Native Applications
+* 🤝 Contribute to Open Source
+* 🎯 Prepare for Google Internships
 
 ---
-
-<br/>
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Geethanjali&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjali&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Geethanjali&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d1117" alt="GitHub Stats" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📈 Top Languages
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjali&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&text_color=c4b5fd&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanjali&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-<br/>
+## 📈 LeetCode Stats
 
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanjali&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=9333EA&fire=A855F7&currStreakLabel=C4B5FD&background=0D1117&dates=6B7280" alt="Contribution Streak" />
-
-</div>
-
-<br/>
+* **Problems Solved:** 150+
+* **Contest Rating:** 1500+
+* **Global Rank:** Top 40%
+* **LeetCode Profile:**(https://leetcode.com/jqrboQoIQE)
 
 ---
 
-<br/>
-
-<div align="center">
-
-## 📉 Activity Graph
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9333ea&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95" alt="Activity Graph" />
-
-</div>
-
-<br/>
+> "Consistency compounds. Small improvements every day create extraordinary results over time."
 
 ---
-
-<br/>
-
-<div align="center">
-
-## ⚡ LeetCode
-
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Geethanjali&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-*"Consistency compounds. Small improvements every day create extraordinary results over time."*
-
-<br/>
-
-</div>
