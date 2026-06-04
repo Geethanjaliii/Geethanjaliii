@@ -19,7 +19,8 @@
 </a>
 </p>
 ```text
-Learn → Build → Improve → Repeat
+
+                                    Learn → Build → Improve → Repeat
 ``` 
 </div>
 
