@@ -182,7 +182,7 @@
 # 📈 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&theme=tokyonight&hide_border=true&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 # 📉 Activity Graph
