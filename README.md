@@ -17,9 +17,10 @@
 <a href="https://github.com/Geethanjaliii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-![](https://komarev.com/ghpvc/?username=Geethanjaliii&style=for-the-badge&color=blueviolet)
 </p>
+```text
+Learn → Build → Improve → Repeat
+``` 
 </div>
 
 ---
@@ -221,15 +222,23 @@
 
 <div align="center">
 
-```text
-Learn → Build → Improve → Repeat
-```
-
 </div>
 
 ---
 
 <div align="center">
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Geethanjali&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+## 💭 Quote
+
 
 ## ✨ Quote
 
