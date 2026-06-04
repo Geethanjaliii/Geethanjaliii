@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" />
+<img src="assets/banner.jpg" width="100%" />
 
 # ✨ Welcome to Geethanjali's GitHub ✨
 
@@ -15,16 +15,16 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/jqrboQoIQE/">
+<a href="https://leetcode.com/u/geetz_23/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Geethanjali">
+<a href="https://github.com/Geethanjaliii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Geethanjali\&style=for-the-badge\&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Geethanjaliii&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -93,7 +93,7 @@ class Geethanjali:
 <p>
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -115,11 +115,11 @@ class Geethanjali:
 
 ### Highlights
 
-* RESTful API architecture
-* Redis cache layer for faster redirects
-* Dockerized deployment
-* Optimized database schema
-* Scalable backend design
+- RESTful API architecture
+- Redis cache implementation
+- Dockerized deployment
+- Optimized database schema
+- Scalable backend design
 
 ---
 
@@ -131,11 +131,11 @@ class Geethanjali:
 
 ### Highlights
 
-* Serverless architecture
-* Event registration workflows
-* CRUD operations with DynamoDB
-* IAM role-based security
-* Cloud deployment
+- Serverless architecture
+- CRUD operations
+- IAM-based security
+- Cloud deployment
+- Event registration workflows
 
 ---
 
@@ -143,11 +143,11 @@ class Geethanjali:
 
 ### Highlights
 
-* IoT integration
-* Occupancy tracking
-* Sensor monitoring
-* Real-time parking updates
-* Hardware-software communication
+- IoT integration
+- Occupancy tracking
+- Sensor monitoring
+- Real-time updates
+- Smart parking analytics
 
 ---
 
@@ -155,7 +155,7 @@ class Geethanjali:
 
 🥇 **First Prize — Blockathon'24**
 
-🚀 **Google GDG On Campus Solution Challenge — Shortlisted Team**
+🚀 **Google GDG On Campus Solution Challenge — Top Team**
 
 📜 **Infosys Artificial Intelligence Primer Certification**
 
@@ -163,11 +163,11 @@ class Geethanjali:
 
 # 🎯 Current Goals
 
-* Master Data Structures & Algorithms in Java
-* Build cloud-native applications
-* Contribute to open source
-* Strengthen backend engineering skills
-* Prepare for Google internships
+- Master Data Structures & Algorithms in Java
+- Build cloud-native applications
+- Strengthen backend engineering skills
+- Contribute to open source
+- Prepare for Google internships
 
 ---
 
@@ -175,7 +175,7 @@ class Geethanjali:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjali&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -185,7 +185,7 @@ class Geethanjali:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Geethanjali&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Geethanjaliii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -195,7 +195,7 @@ class Geethanjali:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjali&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -205,17 +205,17 @@ class Geethanjali:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjali&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💻 LeetCode
+# 💻 LeetCode Stats
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/geetz_23?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
@@ -225,16 +225,17 @@ class Geethanjali:
 
 <div align="center">
 
-📧 [geethanjalivn06@gmail.com](mailto:geethanjalivn06@gmail.com)
+📧 **Email**  
+geethanjalivn06@gmail.com
 
-💼 LinkedIn:
+💼 **LinkedIn**  
 https://www.linkedin.com/in/geethanjali-v-n-852657306/
 
-🧩 LeetCode:
-https://leetcode.com/u/jqrboQoIQE/
+🧩 **LeetCode**  
+https://leetcode.com/u/geetz_23/
 
-🐙 GitHub:
-https://github.com/Geethanjali
+🐙 **GitHub**  
+https://github.com/Geethanjaliii
 
 </div>
 
@@ -242,7 +243,19 @@ https://github.com/Geethanjali
 
 <div align="center">
 
-## 💜 Quote
+## 💜 Current Mindset
+
+```text
+Learn → Build → Improve → Repeat
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Quote
 
 ### "Consistency compounds. Small improvements every day create extraordinary results over time."
 
