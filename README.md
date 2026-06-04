@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/Geethanjaliii/Geethanjaliii/main/banner.png" width="100%">
 </div>
 <p align="center">
-<a href="mailto:geethanjalivn06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/geethanjaligeet6">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </a>
 
 <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
