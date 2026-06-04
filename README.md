@@ -134,7 +134,7 @@
 - Build cloud-native applications
 - Strengthen backend engineering skills
 - Contribute to open source
-- Prepare for Google internships
+- Prepare for FAANG internship
 
 ---
 
