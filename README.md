@@ -220,7 +220,7 @@ Goal    : Become a Cloud Engineer
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/jqrboQoIQE/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/geetz_23/)
 
 </div>
 
