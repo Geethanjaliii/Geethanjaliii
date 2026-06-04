@@ -1,113 +1,270 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Geethanjali%20V%20N&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineering%20%E2%80%A2%20Backend%20Development%20%E2%80%A2%20DSA%20Journey&descSize=15&descAlignY=58&descFontColor=8b949e" width="100%"/>
-</div>
 
-<div align="center">
+# ✨ Welcome to Geethanjali's GitHub ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjali-v-n-852657306/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jqrboQoIQE/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Geethanjaliii)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geethanjalivn06@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Geethanjaliii&style=flat-square&color=70a5fd&label=Visitors)](https://github.com/Geethanjaliii)
+### ☁️ Cloud Engineering • Backend Development • DSA Journey
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:312e81&text=Geethanjali%20V%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineering%20•%20Backend%20Development%20•%20AI%20Projects&descAlignY=65" width="100%" />
 
----
+<p align="center">
+  <a href="mailto:geethanjalivn06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/jqrboQoIQE/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Geethanjali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
-
-```
- 3rd-year CSE student · Aspiring Cloud Engineer · Building in public
- Velammal Engineering College, Chennai · CGPA 7.99 · Class of 2027
-```
-
-</div>
-
----
-
-### About Me
-
-- Studying **Computer Science & Engineering** at Velammal Engineering College
-- Interested in **Cloud Computing**, **Backend Engineering**, and **AI-assisted tools**
-- Practicing **Data Structures & Algorithms** in Java · Learning **System Design** foundations
-- Currently working on serverless and cloud-native backend projects
-- Goal: land a software or cloud engineering internship at a top tech company
-
----
-
-### Tech Stack
-
-<div align="center">
-
-| Layer | Technologies |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Cloud** | ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![API GW](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+![](https://komarev.com/ghpvc/?username=Geethanjali\&style=for-the-badge\&color=blueviolet)
 
 </div>
 
 ---
 
-### Featured Projects
+# 🌙 About Me
 
-<div align="center">
+```python
+class Geethanjali:
 
-| Project | Stack | Key Points |
-|---|---|---|
-| **URL Shortener** | FastAPI · Redis · MySQL · Docker | Redis cache-aside pattern · Containerized deployment · Optimized indexed schema |
-| **Serverless Event Manager** | AWS Lambda · API Gateway · DynamoDB · S3 | Fully serverless architecture · CRUD with DynamoDB · IAM-secured services |
+    def __init__(self):
+        self.name = "Geethanjali V N"
+        self.location = "Chennai, Tamil Nadu, India"
+        self.college = "Velammal Engineering College"
+        self.degree = "B.E. Computer Science & Engineering"
+        self.graduation = 2027
+        self.cgpa = 7.99
 
-</div>
+        self.interests = [
+            "Cloud Computing",
+            "Backend Engineering",
+            "Artificial Intelligence",
+            "System Design"
+        ]
 
----
+        self.currently_learning = [
+            "Java DSA",
+            "Python",
+            "Cloud Technologies",
+            "Backend Development"
+        ]
 
-### Achievements
-
-<div align="center">
-
-| | Achievement |
-|---|---|
-| 🏆 | **First Prize** — Blockathon'24, Velammal Engineering College |
-| 🚀 | **Top Team** — Google GDG On Campus Solution Challenge |
-| 📜 | **AI Primer Certification** — Infosys |
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Geethanjaliii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&border_radius=6"/>
-
-</div>
-
----
-
-### Currently Working Towards
-
-```
-→  Master DSA fundamentals in Java
-→  Build and deploy cloud-native backend projects
-→  Contribute to open source
-→  Prepare for Google and top-tier internship applications
+    def goal(self):
+        return "Become a Cloud Engineer and build scalable systems"
 ```
 
 ---
 
+# 🚀 Current Focus
+
+🔹 Mastering Data Structures & Algorithms in Java
+
+🔹 Building backend and cloud-native projects
+
+🔹 Exploring AWS serverless architecture
+
+🔹 Improving problem-solving through LeetCode
+
+🔹 Preparing for software engineering internships
+
+---
+
+# ⚡ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 URL Shortener
+
+**Tech Stack:** FastAPI • Redis • MySQL/PostgreSQL • Docker
+
+### Highlights
+
+* Designed RESTful APIs for URL generation and redirection
+* Implemented Redis caching for faster response times
+* Containerized the application using Docker
+* Optimized database indexing for efficient lookups
+* Built scalable backend architecture
+
+---
+
+## ☁️ Serverless Event Management System
+
+**Tech Stack:** AWS Lambda • API Gateway • DynamoDB • S3
+
+### Highlights
+
+* Built a fully serverless backend architecture
+* Implemented CRUD operations using DynamoDB
+* Configured IAM roles for secure service communication
+* Integrated frontend and backend services
+* Hosted static frontend using Amazon S3
+
+---
+
+## 🛰️ Smart Parking System
+
+**Tech Stack:** IoT • Sensors • Embedded Systems
+
+### Highlights
+
+* Real-time parking occupancy tracking
+* Sensor integration and monitoring
+* Hardware-software communication debugging
+* Live parking status updates
+
+---
+
+# 🏆 Achievements
+
+🥇 First Prize — Blockathon'24
+
+🚀 Shortlisted among Top Teams — Google GDG On Campus Solution Challenge
+
+📜 Artificial Intelligence Primer Certification — Infosys
+
+---
+
+# 🎯 2026 Goals
+
+```text
+✓ Strengthen Java DSA
+✓ Solve 500+ LeetCode problems
+✓ Build impactful cloud projects
+✓ Contribute to open source
+✓ Secure top software internships
+✓ Grow as a backend engineer
+```
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
 
-*"Build things that matter. Learn every day. Stay consistent."*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjali&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=100&section=footer" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjali&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Geethanjali&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjali&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 LeetCode Progress
+
+<div align="center">
+
+<a href="https://leetcode.com/u/jqrboQoIQE/">
+
+<img src="https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Nunito&ext=heatmap"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:geethanjalivn06@gmail.com">
+📧 Email
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
+💼 LinkedIn
+</a>
+
+•
+
+<a href="https://leetcode.com/u/jqrboQoIQE/">
+🧩 LeetCode
+</a>
+
+•
+
+<a href="https://github.com/Geethanjali">
+🐙 GitHub
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+### “Success is the sum of small efforts repeated day in and day out.”
+
+Building one project, one problem, and one step at a time.
+
+⭐ Thanks for visiting my profile!
 
 </div>
