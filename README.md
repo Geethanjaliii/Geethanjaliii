@@ -1,118 +1,113 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Geethanjali%20V%20N&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineering%20%E2%80%A2%20Backend%20Development%20%E2%80%A2%20DSA%20Journey&descSize=15&descAlignY=58&descFontColor=8b949e" width="100%"/>
+</div>
 
-# Geethanjali V N
+<div align="center">
 
-**Computer Science Student · Aspiring Cloud Engineer · Builder**
-
-Chennai, India · B.E. CSE @ Velammal Engineering College (2027)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geethanjali-vn)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethanjali-v-n-852657306/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jqrboQoIQE/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Geethanjaliii)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geethanjalivn06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Geethanjaliii&style=flat-square&color=70a5fd&label=Visitors)](https://github.com/Geethanjaliii)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a 3rd-year Computer Science student passionate about cloud computing, backend development, and building AI-assisted tools that solve real-world problems. I enjoy working on projects that combine practical engineering with meaningful impact — from helping farmers access information to simplifying fitness planning.
+```
+ 3rd-year CSE student · Aspiring Cloud Engineer · Building in public
+ Velammal Engineering College, Chennai · CGPA 7.99 · Class of 2027
+```
 
-Currently focused on strengthening my fundamentals in DSA, system design, and cloud infrastructure while building portfolio projects that reflect genuine problem-solving.
+</div>
 
 ---
 
-## Learning Journey
+### About Me
 
-| Area | What I'm Working On |
+- Studying **Computer Science & Engineering** at Velammal Engineering College
+- Interested in **Cloud Computing**, **Backend Engineering**, and **AI-assisted tools**
+- Practicing **Data Structures & Algorithms** in Java · Learning **System Design** foundations
+- Currently working on serverless and cloud-native backend projects
+- Goal: land a software or cloud engineering internship at a top tech company
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+| Layer | Technologies |
 |---|---|
-| Data Structures & Algorithms | Java-based problem solving on LeetCode |
-| Backend Development | Python, FastAPI, REST APIs |
-| Cloud Computing | AWS fundamentals — EC2, S3, Lambda, IAM |
-| System Design | Core concepts: caching, databases, scalability basics |
-| AI Integration | Using APIs and tools to build AI-assisted applications |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud** | ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![API GW](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
 
 ---
 
-## Tech Stack
+### Featured Projects
 
-**Languages**
-`Python` `Java` `JavaScript` `HTML` `CSS`
+<div align="center">
 
-**Backend & APIs**
-`FastAPI` `Flask` `REST API Design`
-
-**Databases**
-`MySQL` `MongoDB`
-
-**Cloud & DevOps**
-`AWS (EC2, S3, Lambda, API Gateway, IAM)` `Docker` `Git`
-
-**Tools & Platforms**
-`VS Code` `GitHub` `Postman`
-
-> Actively learning — not claiming mastery. Growing every day.
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
+| Project | Stack | Key Points |
 |---|---|---|
-| **MockMate** | AI-powered mock interview generator that provides real-time feedback | Python, FastAPI, AI APIs |
-| **FitFlow** | Customizable workout planner with adaptive scheduling | JavaScript, Flask, MySQL |
-| **Project Kisan** | AI assistant for farmers — crop guidance, weather info, market prices | Python, NLP, REST APIs |
-| **SmartBizAI** | Inventory and route optimization tool for small businesses | Python, FastAPI, MongoDB |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6"/>
+| **URL Shortener** | FastAPI · Redis · MySQL · Docker | Redis cache-aside pattern · Containerized deployment · Optimized indexed schema |
+| **Serverless Event Manager** | AWS Lambda · API Gateway · DynamoDB · S3 | Fully serverless architecture · CRUD with DynamoDB · IAM-secured services |
 
 </div>
 
 ---
 
-## LeetCode Progress
+### Achievements
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-
-</div>
-
-> Consistently practicing DSA in Java. Focus: arrays, strings, recursion, and searching/sorting.
-
----
-
-## Connect With Me
-
-I'm open to internship opportunities, project collaborations, and conversations about cloud engineering and backend development.
-
-| Platform | Link |
+| | Achievement |
 |---|---|
-| LinkedIn | [linkedin.com/in/geethanjali-vn](https://linkedin.com/in/geethanjali-vn) |
-| Email | geethanjalivn06@gmail.com |
-| LeetCode | [leetcode.com/YOUR_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME) |
-| Portfolio | [your-portfolio-link.com](https://your-portfolio-link.com) |
+| 🏆 | **First Prize** — Blockathon'24, Velammal Engineering College |
+| 🚀 | **Top Team** — Google GDG On Campus Solution Challenge |
+| 📜 | **AI Primer Certification** — Infosys |
+
+</div>
 
 ---
 
-## Fun Fact
+### GitHub Stats
 
-I once spent an entire weekend debugging a hardware–software communication issue in an IoT parking system — and loved every frustrating minute of it.
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&count_private=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Geethanjaliii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&border_radius=6"/>
+
+</div>
+
+---
+
+### Currently Working Towards
+
+```
+→  Master DSA fundamentals in Java
+→  Build and deploy cloud-native backend projects
+→  Contribute to open source
+→  Prepare for Google and top-tier internship applications
+```
 
 ---
 
 <div align="center">
 
-*"The best way to learn engineering is to build things that matter."*
+*"Build things that matter. Learn every day. Stay consistent."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Geethanjaliii&style=flat-square&color=70a5fd&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
