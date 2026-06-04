@@ -21,17 +21,9 @@
 </div>
 
 ---
-### 🌙 About Me
+Hey I'm Geethanjali, a Computer Science Engineering student passionate about Cloud Computing, Backend Development, and AI. I enjoy building projects, learning scalable system design, and solving problems through code. Currently, I'm strengthening my skills in Java DSA, backend development, and cloud technologies while working toward my goal of becoming a Cloud Engineer.
+🚀 Open to networking, collaborations, and exciting opportunities. Feel free to drop me an email at [geethanjalivn06@gmail.com](mailto:geethanjalivn06@gmail.com).
 
-🎓 B.E. Computer Science & Engineering Student at Velammal Engineering College (2027)
-
-📍 Chennai, India | 📊 CGPA: 7.99
-
-☁️ Interested in Cloud Computing, Backend Engineering, Artificial Intelligence, and System Design
-
-🚀 Building projects while strengthening Java DSA, Python, and Cloud Technologies
-
-🎯 Aspiring Cloud Engineer focused on developing scalable and reliable systems
 
 # ⚡ Tech Stack
 ### 👩‍💻 Languages
