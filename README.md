@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Geethanjaliii/Geethanjaliii/main/banner.png" width="100%">
 </div>
-
-# ✨ Welcome to Geethanjali's GitHub ✨
-
-### ☁️ Cloud Engineering • Backend Development • DSA Journey
-
 <p align="center">
 <a href="mailto:geethanjalivn06@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
