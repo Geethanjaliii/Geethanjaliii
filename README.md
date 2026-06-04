@@ -29,7 +29,6 @@
 </div>
 
 ---
-
 # 🌙 About Me
 
 ```python
@@ -59,9 +58,10 @@ class Geethanjali:
             "Cloud Technologies",
             "Backend Development"
         ]
-def goal(self):
-        return "Become a Cloud Engineer and build scalable systems"  ```
----
+
+    def goal(self):
+        return "Become a Cloud Engineer and build scalable systems"
+```
 
 # ⚡ Tech Stack
 
