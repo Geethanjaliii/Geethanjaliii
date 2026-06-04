@@ -49,12 +49,12 @@
 🎯 Become a Cloud Engineer and build scalable systems.
 
 # ⚡ Tech Stack
-
-### 👨‍💻 Languages
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
+### 👩‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
 ### ⚙️ Backend
 
 <p>
