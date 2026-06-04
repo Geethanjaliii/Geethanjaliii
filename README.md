@@ -1,173 +1,251 @@
-# BANNER
+<div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="assets/banner.png" width="100%" />
 
-✨ Welcome to Geethanjali's GitHub ✨
+# ✨ Welcome to Geethanjali's GitHub ✨
 
-Cloud Engineering • Backend Development • DSA Journey
+### ☁️ Cloud Engineering • Backend Development • DSA Journey
 
-[Custom Banner Image]
+<p align="center">
+<a href="mailto:geethanjalivn06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# CONNECT
+<a href="https://leetcode.com/u/jqrboQoIQE/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-📧 Email
+<a href="https://github.com/Geethanjali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-💼 LinkedIn
+![](https://komarev.com/ghpvc/?username=Geethanjali\&style=for-the-badge\&color=blueviolet)
 
-💻 LeetCode
-
-🐙 GitHub
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# ABOUT ME
-
-🎓 B.E Computer Science & Engineering Student
-
-🏫 Velammal Engineering College
-
-📍 Chennai, Tamil Nadu, India
-
-📊 CGPA: 7.99
-
-☁️ Interested in Cloud Computing
-
-⚙️ Backend Engineering
-
-🤖 Artificial Intelligence
-
-🚀 Building projects while learning DSA and System Design
-
-🎯 Goal: Secure top Software / Cloud internships
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# TECH STACK
-
-## Languages
-
-Java
-Python
-JavaScript
-
-## Backend
-
-FastAPI
-Flask
-REST APIs
-
-## Database
-
-MySQL
-MongoDB
-Redis
-
-## Cloud
-
-AWS Lambda
-API Gateway
-S3
-IAM
-
-## Tools
-
-Docker
-Git
-GitHub
-VS Code
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# FEATURED PROJECTS
-
-## URL Shortener
-
-FastAPI • Redis • MySQL/PostgreSQL • Docker
-
-✔ Designed RESTful APIs
-
-✔ Redis caching
-
-✔ Optimized database schema
-
-✔ Docker deployment
+</div>
 
 ---
 
-## Serverless Event Management System
+# 🌙 About Me
 
-AWS Lambda • API Gateway • DynamoDB • S3
+```python
+class Geethanjali:
 
-✔ Serverless architecture
+    def __init__(self):
+        self.name = "Geethanjali V N"
+        self.location = "Chennai, Tamil Nadu, India"
 
-✔ CRUD operations
+        self.education = {
+            "degree": "B.E Computer Science & Engineering",
+            "college": "Velammal Engineering College",
+            "graduation": 2027,
+            "cgpa": 7.99
+        }
 
-✔ IAM security
+        self.interests = [
+            "Cloud Computing",
+            "Backend Engineering",
+            "Artificial Intelligence",
+            "System Design"
+        ]
 
-✔ Cloud deployment
+        self.currently_learning = [
+            "Java DSA",
+            "Python",
+            "Cloud Technologies",
+            "Backend Development"
+        ]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    def goal(self):
+        return "Become a Cloud Engineer and build scalable systems"
+```
 
-# ACHIEVEMENTS
+---
 
-🥇 First Prize – Blockathon'24
+# ⚡ Tech Stack
 
-🚀 Google GDG On Campus Solution Challenge
+### 👨‍💻 Languages
 
-📜 Infosys AI Primer Certification
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ⚙️ Backend
 
-# CURRENT GOALS
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge"/>
+</p>
 
-🎯 Master DSA in Java
+### 🗄️ Database
 
-🎯 Build Cloud Native Applications
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
 
-🎯 Contribute to Open Source
+### ☁️ Cloud
 
-🎯 Prepare for Google Internships
+<p>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ Tools
 
-# GITHUB STATS
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
 
-[GitHub Readme Stats Card]
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 Featured Projects
 
-# GITHUB STREAK
+## 🔗 URL Shortener
 
-[GitHub Streak Card]
+**Tech Stack**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`FastAPI` • `Redis` • `MySQL/PostgreSQL` • `Docker`
 
-# TOP LANGUAGES
+### Highlights
 
-[Top Languages Card]
+* RESTful API architecture
+* Redis cache layer for faster redirects
+* Dockerized deployment
+* Optimized database schema
+* Scalable backend design
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-# LEETCODE
+## ☁️ Serverless Event Management System
 
-[LeetCode Card]
+**Tech Stack**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`AWS Lambda` • `API Gateway` • `DynamoDB` • `S3`
 
-# ACTIVITY GRAPH
+### Highlights
 
-[Activity Graph]
+* Serverless architecture
+* Event registration workflows
+* CRUD operations with DynamoDB
+* IAM role-based security
+* Cloud deployment
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-# QUOTE
+## 🛰️ Smart Parking System
 
-💜
+### Highlights
 
-"Consistency compounds. Small improvements every day create extraordinary results over time."
+* IoT integration
+* Occupancy tracking
+* Sensor monitoring
+* Real-time parking updates
+* Hardware-software communication
 
-💜
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🏆 Achievements
+
+🥇 **First Prize — Blockathon'24**
+
+🚀 **Google GDG On Campus Solution Challenge — Shortlisted Team**
+
+📜 **Infosys Artificial Intelligence Primer Certification**
+
+---
+
+# 🎯 Current Goals
+
+* Master Data Structures & Algorithms in Java
+* Build cloud-native applications
+* Contribute to open source
+* Strengthen backend engineering skills
+* Prepare for Google internships
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjali&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Geethanjali&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjali&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📉 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjali&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/jqrboQoIQE?theme=dark&font=Nunito&ext=heatmap"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+📧 [geethanjalivn06@gmail.com](mailto:geethanjalivn06@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/geethanjali-v-n-852657306/
+
+🧩 LeetCode:
+https://leetcode.com/u/jqrboQoIQE/
+
+🐙 GitHub:
+https://github.com/Geethanjali
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Quote
+
+### "Consistency compounds. Small improvements every day create extraordinary results over time."
+
+⭐ Thanks for visiting my profile!
+
+</div>
