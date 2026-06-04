@@ -32,7 +32,7 @@
 
 # 🌙 About Me
 
-python
+```python
 class Geethanjali:
 
     def __init__(self):
@@ -63,7 +63,6 @@ class Geethanjali:
     def goal(self):
         return "Become a Cloud Engineer and build scalable systems"
 ```
-
 ---
 
 # ⚡ Tech Stack
