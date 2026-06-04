@@ -31,37 +31,28 @@
 ---
 # 🌙 About Me
 
-```python
-class Geethanjali:
+- 🎓 B.E. Computer Science & Engineering Student
+- 🏫 Velammal Engineering College
+- 📍 Chennai, Tamil Nadu, India
+- 📊 CGPA: 7.99
 
-    def __init__(self):
-        self.name = "Geethanjali V N"
-        self.location = "Chennai, Tamil Nadu, India"
+### Interests
 
-        self.education = {
-            "degree": "B.E Computer Science & Engineering",
-            "college": "Velammal Engineering College",
-            "graduation": 2027,
-            "cgpa": 7.99
-        }
+- ☁️ Cloud Computing
+- ⚙️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🏗️ System Design
 
-        self.interests = [
-            "Cloud Computing",
-            "Backend Engineering",
-            "Artificial Intelligence",
-            "System Design"
-        ]
+### Currently Learning
 
-        self.currently_learning = [
-            "Java DSA",
-            "Python",
-            "Cloud Technologies",
-            "Backend Development"
-        ]
+- 📚 Java DSA
+- 🐍 Python
+- ☁️ Cloud Technologies
+- ⚙️ Backend Development
 
-    def goal(self):
-        return "Become a Cloud Engineer and build scalable systems"
-```
+### Goal
+
+🎯 Become a Cloud Engineer and build scalable systems.
 
 # ⚡ Tech Stack
 
