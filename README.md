@@ -71,8 +71,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 
 **Tech Stack**
 
-`FastAPI` • `Redis` • `MySQL/PostgreSQL` • `Docker`
-
 ### Highlights
 
 - RESTful API architecture
@@ -86,8 +84,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 ## ☁️ Serverless Event Management System
 
 **Tech Stack**
-
-`AWS Lambda` • `API Gateway` • `DynamoDB` • `S3`
 
 ### Highlights
 
