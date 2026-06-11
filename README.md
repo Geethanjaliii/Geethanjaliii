@@ -126,12 +126,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 -  secure top software & cloud internships
 
 ---
-
-# 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geethanjaliii&theme=tokyonight" />
-</div>
-
 ---
 
 # 🔥 GitHub Streak
