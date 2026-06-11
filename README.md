@@ -25,6 +25,15 @@
 Hey I'm Geethanjali, a Computer Science Engineering student passionate about Cloud Computing, Backend Development, and AI. I enjoy building projects, learning scalable system design, and solving problems through code. Currently, I'm strengthening my skills in Java DSA, backend development, and cloud technologies while working toward my goal of becoming a Cloud Engineer.
 🚀 Open to networking, collaborations, and exciting opportunities. Feel free to drop me an email at [geethanjalivn06@gmail.com](mailto:geethanjalivn06@gmail.com).
 
+# 📉 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
 
 # ⚡ Tech Stack
 ### 👩‍💻 Languages
@@ -124,9 +133,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 - Strengthen backend engineering skills
 - Contribute to open source
 -  secure top software & cloud internships
-
----
----
 
 # 🔥 GitHub Streak
 
