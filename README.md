@@ -149,14 +149,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geethanjaliii&theme=tokyonight" />
 </div>
 
-# 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ---
 
 # 💻 LeetCode Stats
