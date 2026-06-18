@@ -134,16 +134,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 - Contribute to open source
 -  secure top software & cloud internships
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Geethanjaliii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 
 <div align="center">
 ---
