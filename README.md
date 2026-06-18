@@ -144,20 +144,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 
 ---
 
-# 📈 Top Languages
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geethanjaliii&theme=tokyonight" />
-</div>
-
----
-
-# 💻 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/geetz_23?theme=dark&font=Nunito&ext=heatmap"/>
-
-</div>
 
 <div align="center">
 ---
