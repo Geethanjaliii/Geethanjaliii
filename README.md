@@ -74,48 +74,6 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔗 URL Shortener
-
-**Tech Stack**
-
-### Highlights
-
-- RESTful API architecture
-- Redis cache implementation
-- Dockerized deployment
-- Optimized database schema
-- Scalable backend design
-
----
-
-## ☁️ Serverless Event Management System
-
-**Tech Stack**
-
-### Highlights
-
-- Serverless architecture
-- CRUD operations
-- IAM-based security
-- Cloud deployment
-- Event registration workflows
-
----
-
-## 🛰️ Smart Parking System
-
-### Highlights
-
-- IoT integration
-- Occupancy tracking
-- Sensor monitoring
-- Real-time updates
-- Smart parking analytics
-
----
-
 # 🏆 Achievements
 
 🥇 **First Prize — Blockathon'24**
