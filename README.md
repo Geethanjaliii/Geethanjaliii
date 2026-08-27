@@ -92,7 +92,9 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity&area=true" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 ## 📈 Currently Learning
