@@ -76,37 +76,6 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 ### AI / ML
 
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge"> <img src="https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge">
-
-## 💼 Experience
-
-▸ **junior DevOps Engineer Intern — CodeAlpha**
-▸ **IoT & Embedded Systems Intern — Tamizhan Skills**
-
-## 🏆 Achievements
-
-▸ 🥇 **Top 105 / 10,000+** — Google On Campus Solution Challenge 2025
-▸ 🥇 **1st Prize** — Blockathon'24, Velammal Engineering College
-▸ 💻 **HackerRank Software Engineer Intern Certification**
-▸ 🎓 **NPTEL Deep Learning — Elite Certification**
-</div>
-## 📈 Currently Learning
-
-```text
-C++ DSA
-   ↓
-Backend Engineering
-   ↓
-System Design
-   ↓
-Cloud Architecture
-   ↓
-DevOps & CI/CD
-   ↓
-AI Engineering
-```
-
----
-
 <div align="center">
 
 ### 💡 Build. Learn. Deploy. Repeat.
