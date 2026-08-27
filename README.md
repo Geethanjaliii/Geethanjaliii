@@ -30,7 +30,7 @@ I'm a **Computer Science Engineering student** passionate about **Backend Develo
 
 I enjoy building scalable backend systems, designing cloud-native applications, working with distributed data systems, and solving real-world problems through software.
 
-Currently, I'm strengthening my skills in **Java DSA, backend engineering, system design, cloud technologies, and AI-powered applications** while working toward becoming a **Cloud / Backend Engineer**.
+Currently, I'm strengthening my skills in **C++ DSA, backend engineering, system design, cloud technologies, and AI-powered applications** while working toward becoming a **Cloud / Backend Engineer**.
 
 🚀 **Open to internships, collaborations, networking, and exciting engineering opportunities.**
 
@@ -40,7 +40,7 @@ Currently, I'm strengthening my skills in **Java DSA, backend engineering, syste
 
 # 💻 What I Work With
 
-* ☕ **Java & DSA** — Problem solving and competitive programming
+* ⚡ **C++ & DSA** — Problem solving and competitive programming
 * 🐍 **Python Backend** — FastAPI, Flask, REST APIs
 * ☁️ **Cloud & DevOps** — AWS, Azure, GCP, Docker, GitHub Actions
 * 🗄️ **Databases** — PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
@@ -64,7 +64,7 @@ Currently, I'm strengthening my skills in **Java DSA, backend engineering, syste
 ### 👩‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
 </p>
 
 <p>
@@ -190,7 +190,7 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 # 📈 Currently Learning
 
 ```text
-Java DSA
+C++ DSA
      ↓
 Backend Engineering
      ↓
