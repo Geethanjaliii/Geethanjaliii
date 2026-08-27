@@ -2,6 +2,15 @@
   <img src="https://raw.githubusercontent.com/Geethanjaliii/Geethanjaliii/main/banner.png" width="100%">
 </div>
 
+<p align="center">
+  <a href="https://leetcode.com/u/geetz_23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/geethanjaligeet6">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 👋 Hi, I'm Geethanjali
