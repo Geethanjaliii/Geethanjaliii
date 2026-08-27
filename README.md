@@ -8,8 +8,9 @@ I’m Geethanjali, a Computer Science Engineering student who enjoys turning ide
 I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
 I believe the best way to learn is to build, break, debug, and build again. I’m always looking for interesting problems, meaningful collaborations, and opportunities to create something impactful. 🚀
 
-**Let’s build, learn, and grow together.**
-
+## 🤝 Let’s Connect
+I’m always open to interesting problems, meaningful collaborations,
+and opportunities to learn and build something impactful.
 <div align="center">
   <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/geetz_23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
