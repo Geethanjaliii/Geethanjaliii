@@ -4,7 +4,11 @@
 ---
 
 ## 👋 Hey Folks, Let Me Introduce!
-I'm Geethanjali, a Computer Science Engineering student focused on Backend Development, Cloud Engineering, and AI. I build scalable backend systems and cloud-native applications while strengthening my foundations in DSA, system design, and AI engineering.
+I’m Geethanjali, a Computer Science Engineering student who enjoys turning ideas into scalable and intelligent software. I’m particularly interested in **Backend Development, Cloud Engineering, AI, and DSA**, where I love combining problem-solving with practical engineering.
+I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
+I believe the best way to learn is to build, break, debug, and build again. I’m always looking for interesting problems, meaningful collaborations, and opportunities to create something impactful. 🚀
+
+**Let’s build, learn, and grow together.**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
