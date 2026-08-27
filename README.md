@@ -3,11 +3,17 @@
 </div>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/geetz_23/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/geethanjaligeet6">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:geethanjalivn06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
