@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Geethanjaliii/Geethanjaliii/main/banner.png" width="100%">
 </div>
+
 ## 👋 Hey Folks, Let Me Introduce!
 I’m Geethanjali, a Computer Science Engineering student who enjoys turning ideas into scalable and intelligent software. I’m particularly interested in **Backend Development, Cloud Engineering and AI. I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
 I believe the best way to learn is to build, break, debug, and build again. 
