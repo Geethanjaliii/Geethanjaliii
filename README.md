@@ -88,14 +88,6 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 ▸ 🥇 **1st Prize** — Blockathon'24, Velammal Engineering College
 ▸ 💻 **HackerRank Software Engineer Intern Certification**
 ▸ 🎓 **NPTEL Deep Learning — Elite Certification**
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Geethanjaliii&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanjaliii&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
 </div>
 ## 📈 Currently Learning
 
