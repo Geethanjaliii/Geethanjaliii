@@ -5,17 +5,7 @@
 
 ## 👋 Hey Folks, Let Me Introduce!
 I’m Geethanjali, a Computer Science Engineering student who enjoys turning ideas into scalable and intelligent software. I’m particularly interested in **Backend Development, Cloud Engineering and AI. I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
-I believe the best way to learn is to build, break, debug, and build again.
-
-## 🤝 Let’s Connect
-I’m always open to interesting problems, meaningful collaborations,
-and opportunities to learn and build something impactful.
-<div align="center">
-  <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/geetz_23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/profile/geethanjaligeet6"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
-  <a href="mailto:geethanjalivn06@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+I believe the best way to learn is to build, break, debug, and build again. Feel free to reach out at @geethanjalivn06@gmail.com 
 
 ## 💻 What I Build
 
@@ -78,6 +68,16 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge"> <img src="https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge">
 <div align="center">
+  
+## 🤝 Let’s Connect
+I’m always open to interesting problems, meaningful collaborations,
+and opportunities to learn and build something impactful.
+<div align="center">
+  <a href="https://www.linkedin.com/in/geethanjali-v-n-852657306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/geetz_23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/profile/geethanjaligeet6"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
+  <a href="mailto:geethanjalivn06@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ### 💡 Build. Learn. Deploy. Repeat.
 
