@@ -11,7 +11,7 @@ Feel free to reach out at @geethanjalivn06@gmail.com
 
 ## 💻 What I Build
 
-▸ Backend Systems — APIs, services, authentication, and scalable architectures
+-> Backend Systems — APIs, services, authentication, and scalable architectures
 ▸ Cloud-Native Applications — cloud infrastructure, containers, and deployment workflows
 ▸ AI / RAG Systems — retrieval, multi-agent workflows, embeddings, and intelligent applications
 ▸ Distributed & Data-Intensive Applications — caching, databases, storage, and reliable data flows
