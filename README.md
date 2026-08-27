@@ -14,7 +14,6 @@
 ## 👋 Hey Folks, Let Me Introduce!
 
 I'm **Geethanjali**, a **Computer Science Engineering student** focused on **Backend Development, Cloud Engineering, and AI**.
-
 I build scalable backend systems and intelligent software while strengthening my foundations in **C++ DSA, system design, cloud technologies, and AI engineering**.
 
 ## 💻 What I Build
