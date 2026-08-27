@@ -7,14 +7,7 @@ I’m Geethanjali, a Computer Science Engineering student who enjoys turning ide
 I believe the best way to learn is to build, break, debug, and build again. 
 I’m always open to interesting problems, meaningful collaborations,
 and opportunities to learn and build something impactful.
-Feel free to reach out at @geethanjalivn06@gmail.com 
-
-## 💻 What I Build
-
--> Backend Systems — APIs, services, authentication, and scalable architectures
-▸ Cloud-Native Applications — cloud infrastructure, containers, and deployment workflows
-▸ AI / RAG Systems — retrieval, multi-agent workflows, embeddings, and intelligent applications
-▸ Distributed & Data-Intensive Applications — caching, databases, storage, and reliable data flows
+Feel free to reach out at @geethanjalivn06@gmail.com
 
 ## 🚀 Featured Projects
 
