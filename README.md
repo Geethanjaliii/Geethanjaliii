@@ -58,20 +58,25 @@ High-throughput URL shortening platform built with **FastAPI, Redis, PostgreSQL,
 
 ## ⚡ Tech Stack
 
-**Languages**
-C++ · Python · TypeScript · JavaScript · SQL
+### Languages
 
-**Backend**
-FastAPI · Flask · Next.js · React · REST APIs
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-**Cloud & DevOps**
-AWS · GCP · Azure · Docker · GitHub Actions
+### Backend & Frameworks
 
-**Databases**
-PostgreSQL · MySQL · Redis · MongoDB · DynamoDB · ChromaDB
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge">
 
-**AI / ML**
-LangGraph · RAG · Gemini · Sentence Transformers · Tesseract
+### Cloud & DevOps
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+### Databases & Storage
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"> <img src="https://img.shields.io/badge/ChromaDB-5A3FFF?style=for-the-badge">
+
+### AI / ML
+
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge"> <img src="https://img.shields.io/badge/Tesseract%20OCR-5C5C5C?style=for-the-badge">
 
 ## 💼 Experience
 
