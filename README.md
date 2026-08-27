@@ -4,9 +4,8 @@
 ---
 
 ## 👋 Hey Folks, Let Me Introduce!
-I’m Geethanjali, a Computer Science Engineering student who enjoys turning ideas into scalable and intelligent software. I’m particularly interested in **Backend Development, Cloud Engineering, AI, and DSA**, where I love combining problem-solving with practical engineering.
-I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
-I believe the best way to learn is to build, break, debug, and build again. I’m always looking for interesting problems, meaningful collaborations, and opportunities to create something impactful. 🚀
+I’m Geethanjali, a Computer Science Engineering student who enjoys turning ideas into scalable and intelligent software. I’m particularly interested in **Backend Development, Cloud Engineering and AI. I build backend systems, APIs, and cloud-native applications while exploring how AI can make software smarter and more efficient. Currently, I’m strengthening my foundations in **DSA, system design, cloud technologies, and AI engineering**, while continuously building projects and learning through hands-on experience.
+I believe the best way to learn is to build, break, debug, and build again.
 
 ## 🤝 Let’s Connect
 I’m always open to interesting problems, meaningful collaborations,
