@@ -29,8 +29,7 @@ Hey I'm Geethanjali, a Computer Science Engineering student passionate about Clo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geethanjaliii&theme=tokyo-night&hide_border=true"/> 
 </div>
 
 
