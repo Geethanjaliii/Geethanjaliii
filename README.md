@@ -9,12 +9,9 @@
   <a href="mailto:geethanjalivn06@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
-
-## 👋 About Me
+## About Me
 
 I'm a **Computer Science Engineering student** focused on **Backend Development, Cloud Engineering, and AI**.
-
 I build scalable backend systems, cloud-native applications, and intelligent software solutions while strengthening my foundations in **C++ DSA, system design, cloud technologies, and AI engineering**.
 
 ## 💻 What I Build
